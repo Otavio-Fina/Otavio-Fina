@@ -2,7 +2,7 @@
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://otaviofina.website)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/otavio-henrique-samuel-dos-santos-fina-325108256/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-henrique-samuel-dos-santos-fina-325108256/)
 
 ![Otavio Fina GitHub stats](https://github-readme-stats.vercel.app/api?username=aOtavio-Fina&show_icons=true&theme=synthwave&count_private=true)
 
