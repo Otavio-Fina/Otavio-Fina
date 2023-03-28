@@ -6,6 +6,8 @@
 
 ![Otavio Fina GitHub stats](https://github-readme-stats.vercel.app/api?username=Otavio-Fina&show_icons=true&theme=synthwave&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Fina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que uso no dia-a-dia
 
@@ -29,4 +31,4 @@
 
 Um carinha que ama tecnologia e ama ainda mais desenvolver seus conhecimentos em tecnologia.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-Fina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
