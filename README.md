@@ -29,6 +29,6 @@
 </div> <br/>
 
 
-Um carinha que ama tecnologia e ama ainda mais desenvolver seus conhecimentos em tecnologia.
+#Um carinha que ama tecnologia e ama ainda mais desenvolver seus conhecimentos em tecnologia.
 
 
