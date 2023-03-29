@@ -1,4 +1,4 @@
-### Olá! Eu sou Otavio Fina 🤠
+# Olá! Eu sou Otavio Fina 🤠
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://otaviofina.website)
 
@@ -29,6 +29,6 @@
 </div> <br/>
 
 
-# Um carinha que ama tecnologia e ama ainda mais desenvolver seus conhecimentos em tecnologia.
+### Um carinha que ama tecnologia e ama ainda mais desenvolver seus conhecimentos em tecnologia.
 
 
